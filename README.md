@@ -8,3 +8,6 @@ https://github.com/me7/AdventOfCode
 
 [leader board overall](https://adventofcode.com/2019/leaderboard)
 
+## Reference Repo
+* https://git.sr.ht/~reesmichael1/adventofcode/tree/master/src
+* https://github.com/dom96/aoc2019
